@@ -1,1 +1,3 @@
-# Task1
+# TaskManager
+
+Console program for managing tasks.
